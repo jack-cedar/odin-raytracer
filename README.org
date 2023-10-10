@@ -1,5 +1,2 @@
 Simple Raytracing in odin following this book
 https://raytracing.github.io/books/RayTracingInOneWeekend.html
-Result:
-
-[[image.ppm]]
