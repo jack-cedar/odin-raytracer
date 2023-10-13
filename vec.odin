@@ -3,6 +3,7 @@ package main
 import "core:math"
 
 Vec3 :: [3]f64
+Point3 :: Vec3
 
 Dot :: proc(a, b: Vec3) -> f64 {
     return a.x * b.x + a.y * b.y + a.z * b.z
